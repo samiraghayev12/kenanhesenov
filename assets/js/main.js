@@ -1,3 +1,4 @@
+
 document.getElementById('musiqi').play();
   document.getElementById('musiqi').volume = 0.1;
   setTimeout(function(){ document.getElementById("result").innerHTML = "" }, 6000);
