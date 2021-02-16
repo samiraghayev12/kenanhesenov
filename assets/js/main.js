@@ -1,6 +1,13 @@
+
 document.getElementById('musiqi').play();
   document.getElementById('musiqi').volume = 0.1;
   setTimeout(function(){ document.getElementById("result").innerHTML = "" }, 6000);
+
+/*Modal js*/
+
+
+
+
 
 /**
 * Template Name: Folio - v4.0.1
