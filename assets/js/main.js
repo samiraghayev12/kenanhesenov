@@ -5,7 +5,7 @@ document.getElementById('musiqi').play();
 
 /*Modal js*/
 
-alert("Salam. Sizin intrnetinizin zəif olması nədəni ilə səhifə özü və ya şəkillər bölümü gec açıla bilər, əyər belə bir halla rastlaşsanız səhifəni yeniləməyinizi və ya bir az vaxt gözləməyinizi xahiş edirik.")
+
 
 
 
